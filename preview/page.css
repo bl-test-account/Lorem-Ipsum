@@ -1,0 +1,47 @@
+html {
+  background-color: #fdfdfd;
+}
+
+.default-app {
+  background-color: white;
+  padding-top: 12px;
+  padding-bottom: 1px;
+  cursor: pointer;
+}
+
+p {
+  color: #313131;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+.container h1 {
+  font-size: 22px;
+  padding-bottom: 5px;
+  color: #313131;
+}
+
+#lightGroupName {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #50bcf2;
+}
+
+.continue-button p {
+  font-size: 16px !important;
+}
+
+.container p {
+  font-size: 21px;
+  margin-top: -25px !important;
+  margin-bottom: 35px;
+  color: #777777;
+}
+
+#description {
+  margin-right:50px;
+  padding-top: 10px;
+}
